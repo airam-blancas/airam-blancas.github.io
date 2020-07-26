@@ -1,8 +1,15 @@
 ## Airam Blancas
 
+<hr>   
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="30%">
+</table>
+ 
 <table width="100%" border=0>
 <tr valign="middle">
 <tbody>
+<tr>
+<td>	
 Since August 2020, I am associate professor in the Department of Statistics at [ITAM](https://www.itam.mx). 
 
 My research interests are in the development of probability theory and stochastic processes to describe the genetic structure of populations under the action of evolutionary forces.  
@@ -15,6 +22,7 @@ I completed my PhD in Probability and Statistics at [CIMAT](https://www.cimat.mx
 </figure>
 </td>
 </tr>
+</table>
 
 ### Publications
 
