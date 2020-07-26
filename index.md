@@ -1,5 +1,13 @@
 ## Airam Blancas
 
+<TABLE border = "0" CELLSPACING = "5">
+		<TR>
+	  	<TD CLASS = "top">
+	    		<img SRC = "AiramBudapest2018.jpg" height="250" BORDER = "0"><br><br><br><br>
+	  	</TD>
+	  	<TD CLASS = "top" ALIGN = left VALIGN = top>
+
+
 Since August 2020, I am associate professor in the Department of Statistics at [ITAM](https://www.itam.mx). 
 
 My research interests are in the development of probability theory and stochastic processes to describe the genetic structure of populations under the action of evolutionary forces.  
