@@ -1,11 +1,11 @@
 ## Airam Blancas
 
-<TABLE border = "0" CELLSPACING = "5">
-		<TR>
-	  	<TD CLASS = "top">
-	    		<img SRC = "AiramBudapest2018.jpg" height="250" BORDER = "0"><br><br><br><br>
-	  	</TD>
-	  	<TD CLASS = "top" ALIGN = left VALIGN = top>
+<td>
+<figure><img src="AiramBudapest2018.jpg" width="250" ALT="Picture of me"
+	     align=center border=2>
+</figure>
+</td>
+</tr>
 
 
 Since August 2020, I am associate professor in the Department of Statistics at [ITAM](https://www.itam.mx). 
