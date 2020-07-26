@@ -11,6 +11,7 @@
 	
 <tr>
 <td>	
+	
 Since August 2020, I am associate professor in the Department of Statistics at [ITAM](https://www.itam.mx). 
 
 My research interests are in the development of probability theory and stochastic processes to describe the genetic structure of populations under the action of evolutionary forces.  
