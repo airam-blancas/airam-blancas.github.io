@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Airam Blancas
 
-You can use the [editor on GitHub](https://github.com/airam-blancas/airamblancas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Since August 2020, I am associate professor in the Department of Statistics at [ITAM](https://www.itam.mx). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are in the development of probability theory and stochastic processes to describe the genetic structure of populations under the action of evolutionary forces.  
 
-### Markdown
+I completed my PhD in Probability and Statistics at [CIMAT](https://www.cimat.mx) in 2016, co-supervised by [Victor Rivero](https://www.cimat.mx/~rivero/vrivero/Welcome.html) and [Arno Siri-Jegousse](http://sigma.iimas.unam.mx/arno/). Then, I got a CONACyT postdoctoral fellow to collaborate for two years in the group of [Anton Wakolbinger](https://www.math.uni-frankfurt.de/~ismi/wakolbinger/pers.html) at Goethe University Frankfut in Germany. In 2019, I started a second postdoc co-supervised by [Julia Palacios](https://juliapalacios.github.io) and [Noah Rosenberg](https://rosenberglab.stanford.edu/index.html) at Stanford University.
 
-I am associate professor in the Department of Statistics at ITAM
+### Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/airam-blancas/airamblancas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- On branching processes with rare neutral mutations.
+- Trees within trees: simple nested coalescents. 
+- The nested Kingman: speed of coming down from infinity.
